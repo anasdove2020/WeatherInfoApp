@@ -143,8 +143,8 @@ The weather endpoint returns comprehensive weather information:
    dotnet run
    ```
    
-   The API will be available at: `https://localhost:5001` or `http://localhost:5000`
-   Swagger UI: `https://localhost:5001/swagger`
+   The API will be available at: `http://localhost:5000`
+   Swagger UI: `http://localhost:5000/swagger`
 
 ### Frontend Setup
 
